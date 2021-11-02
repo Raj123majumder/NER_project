@@ -23,12 +23,11 @@ As deep learning in NLP exploded, larger and larger vocabulary sizes where neede
 <p align="center">
   <img width="390" height="390" src="Screenshot 2021-11-02 at 10.09.50 PM.png">
 </p>
-
 <p align="center">
-  <img width="390" height="390" src="Screenshot 2021-11-02 at 11.09.59 PM.png">
+  <img width="390" height="390" src="Screenshot 2021-11-03 at 12.10.46 AM.png">
 </p>
 <p align="center">
-  <img width="390" height="390" src="Screenshot 2021-11-02 at 11.09.59 PM.png">
+  <img width="390" height="390" src="Screenshot 2021-11-03 at 12.11.58 AM.png">
 </p>
 
 # References<br>

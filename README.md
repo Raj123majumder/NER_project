@@ -18,6 +18,7 @@ As deep learning in NLP exploded, larger and larger vocabulary sizes where neede
 <p align="center">
   <img width="390" height="400" src="PSvdx.png">
 </p>
+# Accuracy Report<br>
 
 # References<br>
 * Towards Data Science - https://towardsdatascience.com/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10

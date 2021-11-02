@@ -11,11 +11,14 @@ Conditional random fields (CRFs) are a class of statistical modeling methods oft
 # Character Embeddings<br>
 
 As deep learning in NLP exploded, larger and larger vocabulary sizes where needed. Character and subword embeddings were an attempt to limit the size of embedding matrices. However, these types of embeddings do not encode the same deep sematics that word embeddings encode.Character embeddings are constructed in similar fashion to the way that word embeddings are constructed. However, instead of embedding at the word level, the vectors represent each character in a language. For example, instead a vector for "king", there would be a separate vector for each of the letters: "k", "i", "n", and "g". As mentioned these types of embeddings do not encode the same type of information that word embeddings contain. Instead, character level embedding can be thought of encoded lexical information and may be used to enhance or enrich word level emebddings.
-* Able to handle new slang words and misspellings
+* Able to handle new words and misspellings
 * The required embedding matrix is much smaller than what is required for word level embeddings.
 
-![](https://images.app.goo.gl/sYc7VPrMDLJePZGk8 "Title is optional")
 
+<p align="center">
+  <img width="390" height="400" src="PSvdx.png">
+</p>
 
-
-
+# References<br>
+* Towards Data Science - (https://towardsdatascience.com/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10)
+* Idea Based on - [Paper Link](https://aclanthology.org/N16-1030/)

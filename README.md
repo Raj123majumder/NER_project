@@ -6,7 +6,7 @@ NER is a subtask of information extraction that seeks to locate and classify nam
 
 # CRF MODEL<br>
 
-Conditional random fields (CRFs) are a class of statistical modeling methods often applied in pattern recognition and machine learning and used for structured prediction. Whereas a classifier predicts a label for a single sample without considering "neighboring" samples, a CRF can take context into account. To do so, the prediction is modeled as a graphical model, which implements dependencies between the predictions. What kind of graph is used depends on the application. For example, in natural language processing, linear chain CRFs are popular, which implement sequential dependencies in the predictions.
+Conditional random fields (CRFs) are a class of statistical modeling methods often applied in pattern recognition and machine learning and used for structured prediction. Whereas a classifier predicts a label for a single sample without considering "neighboring" samples, a CRF can take context into account. To do so, the prediction is modeled as a graphical model, which implements dependencies between the predictions. For example, in natural language processing, linear chain CRFs are popular, which implement sequential dependencies in the predictions.
 
 # Character Embeddings<br>
 

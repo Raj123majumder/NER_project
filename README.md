@@ -31,6 +31,6 @@ As deep learning in NLP exploded, larger and larger vocabulary sizes where neede
 </p>
 
 # References<br>
-* Towards Data Science - https://towardsdatascience.com/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10
+* Towards Data Science - [here](https://towardsdatascience.com/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10)
 * Idea Based on - [Paper Link](https://aclanthology.org/N16-1030/)
 * Dataset - [here](https://www.kaggle.com/namanj27/ner-dataset)
